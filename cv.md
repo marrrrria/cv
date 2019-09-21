@@ -26,5 +26,9 @@
 
 * * *
 
+### Education
+**Belarusian National Technical University, Minsk, Belarus**                                                                             
+**Specialist (faculty) –**  Teacher-programmer (Professional Training (Informatics))
 
+**English:** A2
 
