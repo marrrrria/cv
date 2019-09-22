@@ -9,7 +9,7 @@
 * * * 
 ### Summary	
 
-> Some people say A bold attempt is half success. And I suppose that I have whole success, because my creed is “Once we’ll begin, there’s no turning back.”
+> Some people say a bold attempt is a half of success. And I suppose that I have whole success because my creed is “started once, there’s no turning back”
 
 * * * 
 
