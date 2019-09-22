@@ -7,6 +7,11 @@
 
 **github:** [marrrrria](https://github.com/marrrrria/)  
 * * * 
+### Summary	
+
+> Some people say A bold attempt is half success. And I suppose that I have whole success, because my creed is “Once we’ll begin, there’s no turning back.”
+
+* * * 
 
 ### Technical Skills
 **Programming languages and technologies:** *JavaScript, HTML, CSS/LESS, C#, Java, XML, Responsive Adaptive markup*  
