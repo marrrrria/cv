@@ -26,5 +26,8 @@ h1 {
 hr {
   height: 12px;
   background-color: rgba(128, 128, 128, 0.144);
-  
+}
+
+a {
+  color: rgb(119, 119, 119);
 }
